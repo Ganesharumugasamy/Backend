@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "Name": "Bhikeshwaran",
+      "Designation": "CEO",
+      "ManagerId": null
+    },
+    {
+      "id": 2,
+      "Name": "Darshan",
+      "Designation": "Manager",
+      "Team": "A",
+      "Manager": "Bhikeshwaran",
+      "ManagerId": 1
+    },
+    {
+      "id": 3,
+      "Name": "Ramkumar",
+      "Designation": "Sw Engineer",
+      "Team": "B",
+      "Manager": "Anoop",
+      "ManagerId": "7"
+    },
+    {
+      "id": 4,
+      "Name": "Ganesh",
+      "Designation": "Sw Engineer",
+      "Team": "C",
+      "Manager": "SriP",
+      "ManagerId": "12"
+    },
+    {
+      "id": 5,
+      "Name": "Rohit",
+      "Designation": "Sw Engineer",
+      "Team": "B",
+      "Manager": "Darshan",
+      "ManagerId": "2"
+    },
+    {
+      "id": 6,
+      "Name": "Arun",
+      "Designation": "Sw Engineer",
+      "Team": "A",
+      "Manager": "Darshan",
+      "ManagerId": "2"
+    },
+    {
+      "id": 7,
+      "Name": "Anoop",
+      "Designation": "Senior Manager",
+      "Team": "B",
+      "Manager": "Bhikeshwaran",
+      "ManagerId": 1
+    },
+    {
+      "id": 8,
+      "Name": "Sumit",
+      "Designation": "Jr Engineer",
+      "Team": "B",
+      "Manager": "Anoop",
+      "ManagerId": "7"
+    },
+    {
+      "id": 9,
+      "Name": "saumitra",
+      "Designation": "Jr Engineer",
+      "Team": "C",
+      "Manager": "SriP",
+      "ManagerId": "12"
+    },
+    {
+      "id": 10,
+      "Name": "Patil",
+      "Designation": "Jr Engineer",
+      "Team": "A",
+      "Manager": "Darshan",
+      "ManagerId": "2"
+    },
+    {
+      "id": 11,
+      "Name": "Anbu",
+      "Designation": "Jr Engineer",
+      "Team": "B",
+      "Manager": "Anoop",
+      "ManagerId": "7"
+    },
+    {
+      "id": 12,
+      "Name": "SriP",
+      "Designation": "Architect",
+      "Team": "C",
+      "Manager": "Bhikeshwaran",
+      "ManagerId": 1
+    },
+    {
+      "id": 13,
+      "Name": "Ranjith",
+      "Designation": "Jr Architect",
+      "Team": "C",
+      "Manager": "SriP",
+      "ManagerId": 12
+    }
+  ]
+}

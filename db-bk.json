@@ -1,0 +1,80 @@
+{
+    "user":[
+        {
+            "id":"001",
+            "Name":"Mark",
+            "Designation":"chief executive officer"
+        },
+        {
+            "id":"002",
+            "Name":"Antony",
+            "Designation":"manajer",
+            "team":"finance",
+            "manajer":"001"
+        },
+        {
+            "id":"005",
+            "Name":"Babu",
+            "Designation":"chief officer",
+            "team":"finance",
+            "manajer":"002"
+        },
+        {
+            "id":"008",
+            "Name":"Basher",
+            "Designation":"manging officer",
+            "team":"finance",
+            "manajer":"002"
+        },
+        {
+            "id":"003",
+            "Name":"Saher",
+            "Designation":"manajer",
+            "team":"Markting",
+            "manajer":"001"
+        },
+        {
+            "id":"004",
+            "Name":"Reka",
+            "Designation":"chief branch officer",
+            "team":"Markting",
+            "manajer":"003"
+        },
+        {
+            "id":"010",
+            "Name":"Ashok",
+            "Designation":"chief Markting officer",
+            "team":"Markting",
+            "manajer":"003"
+        }
+    ],
+    "Company":[
+        {
+            "id":"1",
+            "Name":"Apple",
+            "Designation":"Apple Inc. (Apple) designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories and sells a range of related services. The Company's products include iPhone, Mac, iPad, AirPods, Apple TV, Apple Watch, Beats products, HomePod, iPod touch and accessories."
+        },
+        {
+            "id":"2",
+            "Name":"Microsoft",
+            "Designation":"We do business worldwide and have offices in more than 100 countries. We generate revenue by developing, licensing, and supporting a wide range of software products and services, by designing and selling hardware devices, and by delivering relevant online advertising to a global customer audience."
+        },
+        {
+            "id":"3",
+            "Name":"BMW",
+            "Designation":"Today, the BMW Group, with its 31 production and assembly facilities in 15 countries as well as a global sales network, is the world's leading manufacturer of premium automobiles and motorcycles, and provider of premium financial and mobility services."
+        },
+        {
+            "id":"4",
+            "Name":"Sony",
+            "Designation":"Sony Corporation (Sony Electronics Corporation until 1 April 2021) is the electronics business unit of the Sony Group. It primarily conducts research and development (R&D), planning, designing, manufacturing and marketing for electronics products."
+        },
+        {
+            "id":"5",
+            "Name":"Google",
+            "Designation":"Google LLC (/ˈɡuːɡəl/ ( listen)) is an American multinational technology company focusing on search engine technology, online advertising, cloud computing, computer software, quantum computing, e-commerce, artificial intelligence, and consumer electronics."
+        }
+    ]
+    
+}
+   
